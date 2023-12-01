@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../POD/css"
+		},
+		{
+			"path": "../POD/js"
+		},
+		{
+			"path": "../POD/bootstrap-5.0.2-dist"
+		}
+	]
+}
